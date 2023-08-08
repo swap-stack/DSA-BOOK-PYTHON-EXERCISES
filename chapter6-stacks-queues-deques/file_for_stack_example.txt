@@ -1,0 +1,4 @@
+These are some lines of text
+that are supposed to be reversed in order line by lin 
+we are using a stack to implement this
+This is the last line but in our output file we will have this line as the first line
